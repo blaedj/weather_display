@@ -1,0 +1,2 @@
+defmodule WeatherDisplay do
+end
